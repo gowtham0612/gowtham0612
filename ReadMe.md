@@ -1,7 +1,7 @@
 # Gowtham S👨‍💻
 
 ## 👋 Introduction
-Hi there! I'm Gowtham, a passionate software engineer who specializes in front-end technologies. With more than a year of professional experience, I excel in JavaScript, Node.js, and React, and have a strong interest in cloud solutions using AWS. I'm always eager to explore new technologies in AI and serverless computing. Looking to collaborate? Let's make something awesome together!
+Hi, I'm Gowtham Sundaresan. As a software engineer straddling the realms of frontend and backend development, I craft comprehensive and robust web solutions. My technical toolkit is rich with JavaScript, Node.js, React, and an array of backend technologies that empower me to build scalable, efficient applications. My passion doesn't stop at development; I’m also deeply engaged with cloud computing, serverless architectures, and exploring the vast potential of artificial intelligence. In my writings, I aim to share insights that bridge theory with practical application, guiding fellow developers and tech enthusiasts on this ever-evolving tech journey. Join me as we delve into new technologies, learning and growing with each project and discovery.
 
 ## 🔗 Connect with Me
 - **LinkedIn:** [Gowtham S](https://linkedin.com/in/gowtham06)
